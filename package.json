@@ -9,6 +9,8 @@
   "author": "Luis Matute - luis.matute@me.com http://luismatute.me",
   "devDependencies": {
     "gulp": "^3.8.11",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.5.2",
     "gulp-connect": "^2.2.0",
     "gulp-jshint": "^1.10.0",
     "gulp-load-plugins": "^0.10.0",
@@ -17,6 +19,7 @@
     "gulp-uglify": "^1.2.0",
     "gulp-util": "^3.0.4",
     "gulp-watch": "^4.2.4",
+    "gulp-wrap": "^0.11.0",
     "yargs": "^3.9.0"
   }
 }
