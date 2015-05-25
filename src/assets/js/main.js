@@ -11,4 +11,4 @@ new God();
 
 end = new Date();
 perf = end - start;
-console.log("Time in ms: " + perf);
+console.log("Initial Load in ms: " + perf);

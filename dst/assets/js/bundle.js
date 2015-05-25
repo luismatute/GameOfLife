@@ -1409,8 +1409,8 @@ new God();
 
 end = new Date();
 perf = end - start;
-console.log("Time in ms: " + perf);
-}).call(this,require("+7ZJp0"),typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {},require("buffer").Buffer,arguments[3],arguments[4],arguments[5],arguments[6],"/fake_7fd3ddc8.js","/")
+console.log("Initial Load in ms: " + perf);
+}).call(this,require("+7ZJp0"),typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {},require("buffer").Buffer,arguments[3],arguments[4],arguments[5],arguments[6],"/fake_9387079d.js","/")
 },{"+7ZJp0":4,"./modules/god.js":7,"./modules/utils.js":10,"buffer":1}],6:[function(require,module,exports){
 (function (process,global,Buffer,__argument0,__argument1,__argument2,__argument3,__filename,__dirname){
 var STATES		= require('./states.js'),
